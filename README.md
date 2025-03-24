@@ -13,7 +13,7 @@ A1.Install [Prometheus](https://prometheus.io/download/) according to OS
 
 Will be met with 
 
-    ![image](https://github.com/user-attachments/assets/dda883bb-4100-45a8-a954-b43982f68422)
+![image](https://github.com/user-attachments/assets/dda883bb-4100-45a8-a954-b43982f68422)
 
 Prometheus is now be accessible at [http://localhost:9090](http://localhost:9090)
 
